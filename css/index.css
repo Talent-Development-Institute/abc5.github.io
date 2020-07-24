@@ -12,6 +12,10 @@
   padding-bottom: 120px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 @font-face {
   font-family: "Helvetica Neue1";
   src: url("../fontFamily/Helvetica35Thin_22435.ttf");
