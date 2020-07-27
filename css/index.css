@@ -1,12 +1,26 @@
+/* colors */
+
+.themeSecondarynBg1 {
+  background-color: #1e283c !important;
+}
+
+.themeSecondarynBg2 {
+  background-color: #9baad2 !important;
+}
+
+.themeSecondarynBg3 {
+  background-color: #3c4664 !important;
+}
+
+.themePrimaryBg {
+  background-color: #005aff !important;
+}
+
+.themeBorderAndBg {
+  background-color: #f0f5ff !important;
+}
+
 /* general */
-.themeGreenBg {
-  background-color: #144854 !important;
-}
-
-.themeGreenTextColor {
-  background-color: #144854 !important;
-}
-
 .section {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -14,6 +28,10 @@
 
 html {
   scroll-behavior: smooth;
+}
+
+.titleDescLineHeight {
+  line-height: 2rem;
 }
 
 @font-face {
@@ -26,6 +44,10 @@ html {
 
 * {
   font-family: "Helvetica Neue";
+}
+
+.nav-item:hover {
+  background-color: #000;
 }
 
 p {
@@ -76,11 +98,18 @@ p {
 }
 
 .narbarInfoBtn {
-  background-color: #ff8e00 !important;
-  border: #ff8e00;
-  border-radius: 20px;
+  /* width: 100%; */
+  background-color: #005aff !important;
+  border: #005aff;
+  padding: 8px;
+  border-radius: 30px;
   position: relative;
   top: 16px;
+}
+
+.narbarInfoBtn:hover {
+  background-color: #9baad2 !important;
+  border: #9baad2;
 }
 
 @media (max-width: 1366px) {
@@ -207,6 +236,25 @@ p {
   }
 }
 
+@media (min-width: 992px) {
+  .navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .nav-link {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  .narbarInfoBtn {
+    min-width: 28.3% !important;
+  }
+}
+
+@media (max-width: 414px) {
+}
+
 @media (device-width: 320px) {
   .one {
     width: 185px;
@@ -214,5 +262,13 @@ p {
 
   .two {
     width: 185px;
+  }
+
+  .fs-sm-12 {
+    font-size: 12px !important;
+  }
+
+  .narbarInfoBtn {
+    min-width: 250px !important;
   }
 }
