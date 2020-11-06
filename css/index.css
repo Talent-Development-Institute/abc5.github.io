@@ -25,6 +25,10 @@
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.section-20px {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 
 html {
   scroll-behavior: smooth;
@@ -95,6 +99,20 @@ p {
 
 .narbarInfoDesc {
   position: relative;
+}
+
+.narbarInfoBtn2 {
+  /* width: 100%; */
+  background-color: #005aff !important;
+  border: #005aff;
+  padding: 16px;
+  font-weight: 600;
+  border-radius: 30px;
+}
+
+.narbarInfoBtn2:hover {
+  background-color: #9baad2 !important;
+  border: #9baad2;
 }
 
 .narbarInfoBtn {
@@ -200,6 +218,28 @@ p {
   position: absolute; /*绝对定位不占位置*/
   top: 35px; /* 向下移动 矩形的高度 + 矩形的上下内边距 + 下边框粗细*/
   right: -15%; /*相对于矩形宽度的位置*/
+}
+
+.footer-link-color {
+  color: #fff !important;
+}
+
+.footer-link-color:hover {
+  color: #9baad2 !important;
+}
+
+.w-90 {
+  width: 90% !important;
+}
+
+.w-80 {
+  width: 80% !important;
+}
+
+@media (max-width: 768px) {
+  .text-768-center {
+    text-align: center !important;
+  }
 }
 
 @media (min-width: 768px) {
