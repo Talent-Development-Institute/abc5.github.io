@@ -1,7 +1,5 @@
 var ibccHref = [
-    'blockchainCourse.html#fundamentalsTrack',
-    'blockchainCourse.html#solutionsArchitectureTrack',
-    'blockchainCourse.html#blockchainBusinessAndLegal'
+    '','',''
 ];
 
 var ibccTitleArr = [
@@ -33,10 +31,10 @@ for (let i = 0; i < ibccDescArr.length; i++) {
         '<img src="' + ibccImgArr[i] + '" class="courseIcons">' +
         '</div>' +
         '<div class="col-9 paddingForCourseInfo">' +
-        '<div class="courseName sectionMainFontFamily fontSize16">' +
-        '<a href="' + ibccHref[i] + '">' + ibccTitleArr[i] + '</a>' +
+        '<div class="courseName  fontSize16">' +
+        '<div href="' + ibccHref[i] + '">' + ibccTitleArr[i] + '</div>' +
         '</div>' +
-        '<div class="fontSize12 courseDesc sectionMainFontFamilyThin  ">' + ibccDescArr[i] + ' </div>' +
+        '<div class="fontSize12 courseDesc   ">' + ibccDescArr[i] + ' </div>' +
         '</div>' +
         '</div>' +
         '</div>');
@@ -53,8 +51,7 @@ for (let i = 0; i < ibccDescArr.length; i++) {
 
 // data science
 var dsHref = [
-    'dataScienceCourse.html#epidemiologyTrack',
-    'dataScienceCourse.html#juliaProgrammingTrack'
+'',''
 ];
 
 var dsTitleArr = [
@@ -81,10 +78,10 @@ for (let i = 0; i < dsDescArr.length; i++) {
         '<img src="' + dsImgArr[i] + '" class="courseIcons">' +
         '</div>' +
         '<div class="col-9 paddingForCourseInfo">' +
-        '<div class="courseName sectionMainFontFamily fontSize16">' +
-        '<a href="' + dsHref[i] + '">' + dsTitleArr[i] + '</a>' +
+        '<div class="courseName  fontSize16">' +
+        '<div href="' + dsHref[i] + '">' + dsTitleArr[i] + '</div>' +
         '</div>' +
-        '<div class="fontSize12 courseDesc sectionMainFontFamilyThin  ">' + dsDescArr[i] + ' </div>' +
+        '<div class="fontSize12 courseDesc   ">' + dsDescArr[i] + ' </div>' +
         '</div>' +
         '</div>' +
         '</div>');
@@ -98,9 +95,7 @@ for (let i = 0; i < dsDescArr.length; i++) {
 
 // fintech
 var ftHref = [
-    'fintechCourse.html#securityPricing',
-    'fintechCourse.html#portfolioManagement',
-    'fintechCourse.html#algorithmicTradingStrategies'
+'','',''
 ];
 
 var ftTitleArr = [
@@ -132,10 +127,10 @@ for (let i = 0; i < ftTitleArr.length; i++) {
         '<img src="' + ftImgArr[i] + '" class="courseIcons">' +
         '</div>' +
         '<div class="col-9 paddingForCourseInfo">' +
-        '<div class="courseName sectionMainFontFamily fontSize16">' +
-        '<a href="' + ftHref + '">' + ftTitleArr[i] + '</a>' +
+        '<div class="courseName  fontSize16">' +
+        '<div href="' + ftHref + '">' + ftTitleArr[i] + '</div>' +
         '</div>' +
-        '<div class="fontSize12 courseDesc sectionMainFontFamilyThin  ">' + ftDescArr[i] + ' </div>' +
+        '<div class="fontSize12 courseDesc   ">' + ftDescArr[i] + ' </div>' +
         '</div>' +
         '</div>' +
         '</div>');
