@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "DINPro-Medium";
+  src: url(../fonts/DINPro-Medium_13936.ttf);
+}
+
+@font-face {
+  font-family: "Roboto Bold";
+  src: url(../fonts/Roboto-Bold.ttf);
+}
+
+.DIN {
+  font-family: "Roboto Bold" !important;
+}
+
+.Roboto {
+  font-family: "DINPro-Medium" !important;
+}
