@@ -247,6 +247,10 @@ hr {
   .h1-320 {
     margin-top: 24px !important;
   }
+
+  .xxmt {
+    margin-top: 40px !important;
+  }
 }
 
 /* @media (device-width: 768px) {
