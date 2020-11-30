@@ -116,8 +116,8 @@
       try {
         var refElement = $(currLink.attr("href"));
         if (
-          refElement.position().top <= scrollPos &&
-          refElement.position().top + refElement.height() > scrollPos
+          refElement.position().top -110 <= scrollPos &&
+          refElement.position().top -110 + refElement.height() > scrollPos
         ) {
           $(".nav ul li a").removeClass("active");
           currLink.addClass("active");
