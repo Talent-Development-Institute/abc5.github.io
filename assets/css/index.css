@@ -327,9 +327,9 @@ hr {
   }
 }
 
-@media (device-width: 414px) {
+@media (max-width: 414px) {
   .price-bg {
-    background-image: url(../images/new/MB\ Frame\ 14.png);
+    background-image: url(../images/new/MB\ Frame\ 14.2.png);
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
     background-attachment: initial;
