@@ -1,3 +1,8 @@
+.logo {
+  letter-spacing: 0px !important;
+  font-family: "DINPro-Bold" !important;
+}
+
 .form-control::-webkit-input-placeholder {
   color: #bec6cc;
 }

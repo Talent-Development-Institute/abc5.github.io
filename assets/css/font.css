@@ -8,10 +8,22 @@
   src: url(../fonts/Roboto-Bold.ttf);
 }
 
+@font-face {
+  font-family: "DINPro-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("../fonts/DINPro-Bold"),
+    url("../fonts/DINPro-Bold_13934.woff") format("woff");
+}
+
 .DIN {
   font-family: "Roboto Bold" !important;
 }
 
 .Roboto {
   font-family: "DINPro-Medium" !important;
+}
+
+.titleBold {
+  font-family: "DINPro-Bold" !important;
 }
