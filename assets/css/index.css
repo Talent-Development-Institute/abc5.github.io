@@ -328,17 +328,15 @@ hr {
 
 @media (max-width: 539px) {
   .price-bg {
-    background-image: url(../images/new/MB\ Frame\ 14.2.png);
+    background-image: url(../images/new/MB\ Frame\ 14.png);
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
-    /* background-attachment: initial; */
-    /* background-attachment: scroll, local; */
+    background-attachment: fixed;
     background-size: cover;
   }
 
   .faq-bg {
     background-image: url(../images/new/MB\ Frame\ 13.png);
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
   }
