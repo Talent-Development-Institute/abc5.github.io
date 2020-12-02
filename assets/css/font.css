@@ -10,9 +10,9 @@
 
 @font-face {
   font-family: "DINPro-Bold";
-  /* font-style: normal;
-  font-weight: normal; */
-  src: url(../fonts/DINPro-Bold_13934.woff);
+  src: url(../fonts/DINPro-Bold_13934.woff) format("woff");
+  src: local("DINPro-Bold"),
+    url("../fonts/DINPro-Bold_13934.woff") format("woff");
 }
 
 .DIN {
