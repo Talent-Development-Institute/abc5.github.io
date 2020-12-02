@@ -227,8 +227,8 @@ hr {
   .price-bg {
     background-image: url(../images/new/MB\ Frame\ 14.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    /* background-attachment: fixed;
+    background-size: cover; */
   }
 
   .btn {
