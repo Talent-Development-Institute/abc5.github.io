@@ -31,6 +31,11 @@
   color: #000 !important;
 }
 
+.nor-img-width {
+  width: 50% !important;
+  height: auto;
+}
+
 #welcome {
   background-image: url(../images/new/Frame\ 10.png);
 }
@@ -196,12 +201,21 @@ hr {
   background: url(../images/li/check-solid.svg) no-repeat;
 }
 
+.footerBtnMouseHover:hover {
+  margin-top: 1rem !important;
+  color: #249dd8 !important;
+}
+
 @media only screen and (max-width: 1024px) {
   .price-bg {
     background-image: url(../images/new/Frame\ 8.1.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+  }
+
+  .nor-img-width {
+    width: 60% !important;
   }
 }
 
@@ -224,6 +238,18 @@ hr {
 }
 
 @media (max-width: 767px) {
+  .nor-img-width {
+    width: 40% !important;
+  }
+
+  .center-on-sm {
+    text-align: center;
+  }
+
+  .mt-767-4 {
+    margin-top: 2rem !important;
+  }
+
   .price-bg {
     background-image: url(../images/new/MB\ Frame\ 14.png);
     background-repeat: no-repeat;
