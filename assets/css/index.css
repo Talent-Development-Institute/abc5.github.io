@@ -32,8 +32,16 @@
 }
 
 .nor-img-width {
-  width: 50% !important;
+  width: 70% !important;
   height: auto;
+}
+
+.pl-footer {
+  padding-left: 8%;
+}
+
+.pl-footer-2 {
+  padding-left: 4%;
 }
 
 #welcome {
@@ -215,7 +223,7 @@ hr {
   }
 
   .nor-img-width {
-    width: 60% !important;
+    width: 80% !important;
   }
 }
 
@@ -238,6 +246,14 @@ hr {
 }
 
 @media (max-width: 767px) {
+  .pl-footer {
+    padding: 0%;
+  }
+
+  .pl-footer-2 {
+    padding-left: 0%;
+  }
+
   .nor-img-width {
     width: 40% !important;
   }
