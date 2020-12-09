@@ -359,6 +359,10 @@ hr {
 }
 
 @media (min-width: 992px) {
+  .minH-price {
+    min-height: 56px !important;
+  }
+
   .container2 {
     max-width: 95%;
   }
@@ -366,6 +370,11 @@ hr {
   .ls-1p5 {
     /* letter-spacing: -1.5px; */
     line-height: 60px !important;
+  }
+
+  .ls-1p5-2 {
+    /* letter-spacing: -1.5px; */
+    line-height: 75px !important;
   }
 }
 
