@@ -1,0 +1,275 @@
+    <!-- ***** Frequently Question Start ***** -->
+    <section id="frequently-question" class="section faq-bg" style="padding : 100px 0px 100px 0px">
+        <div class="container">
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-heading">
+                        <h2 class="DIN">Frequently Asked Questions</h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="section-heading">
+                        <p class="Roboto mb-5 text-black0">Advice and answers from the ABC5-Lab team.</p>
+                    </div>
+                </div>
+            </div><!-- ***** Section Title End ***** -->
+            <div class="row">
+                <div class="left-text align-self-cancel col-lg-6 col-md-6 col-sm-12 paraBgColorWithPadding2 d-flex align-items-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.2s">
+                    <div class="container">
+                        <h4 class="DIN mb-4 mt-4 text-center">For more clarity on ABC5-Lab, contact us to register for these informative webinars</h4>
+                        <div class="accordion-text mx-4">
+                            <div class="Roboto text-left">
+                                About Courses (Room A) — Wed 16 Dec 2pm (finished)<br><br>
+                                About Courses (Room B) — Wed 16 Dec 4pm (finished)<br><br>
+                                About Courses (Room C) — Wed 16 Dec 6pm (finished)<br><br>
+                                About Competitions (Room A) — Thu 17 Dec 2pm (finished)<br><br>
+                                About Competitions (Room B) — Thu 17 Dec 4pm (finished)<br><br>
+                                About Competitions (Room C) — Thu 17 Dec 6pm (finished)<br><br>
+                                About OGCIO Funding (Room A) — Fri 18 Dec 2pm (full)<br><br>
+                                About OGCIO Funding (Room B) — Fri 18 Dec 4pm (available)<br><br>
+                                About OGCIO Funding (Room C) — Fri 18 Dec 6pm (available)<br><br>
+                                REDUX: 3-in-1 RECAP (Room A) — Sat 19 Dec 2pm (available)<br><br>
+                                REDUX: 3-in-1 RECAP (Room B) — Sat 19 Dec 4pm (available)<br><br>
+                                REDUX: 3-in-1 RECAP (Room C) — Sat 19 Dec 6pm (available)<br><br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.2s">
+                    <div class="accordions is-first-expanded faq-br">
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">How much does this cost?</span> <span class="icon"><i class=""></i></span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">This programme costs your school nothing because it is completely subsidized by the OGCIO.</p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">Are these programmes too challenging for secondary-level students to understand?</span> <span class="icon"><i class=""></i></span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">No, the programmes have all been tailored to a level that fits a secondary learner.</p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">Is it necessary for the applicant to set up a physical lab at school?</span> <span class="icon"><i class=""></i></span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">The IT Innovation Lab initiative is not restricted to setting up a physical lab. The ABC5-lab is a virtual lab, meaning it comes as an installed software.</p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">Is my school eligible for the application of the OGCIO backed IT Innovation Lab funding?</span> <span class="icon"><i class=""></i></span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">The applicant must be a publicly-funded secondary school, including government aided, caput secondary schools and secondary schools under the Direct Subsidy Scheme (DSS).</p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">How much subsidies can my school get from OGCIO?</span> <span class="icon"><i class=""></i></span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">Your school is able to get up to 1,000,000 HKD.</p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">Do we need to advance the cost of ABC5-Lab before we are granted the OGCIO funding?</span> <span class="icon"><i class=""></i></span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">No, you are able to get access to ABC5-Lab’s content before you've gotten the funding, if you choose to order our programme.</p>
+                                </div>
+                            </div>
+                        </article>
+                        <!-- <article class="accordion">
+                            <div class="accordion-head">
+                                <span>Sixth Sense Question</span>
+                                <span class="icon">
+                                    <i class=""></i>
+                                </span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p>Suspendisse potenti. Ut dapibus leo ut massa vulputate semper. Pellentesque
+                                        maximus lorem sed elit imperdiet mattis. Duis posuere mauris ut eros rutrum
+                                        sodales. Aliquam erat volutpat.</p>
+                                </div>
+                            </div>
+                        </article> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!-- ***** Frequently Question End ***** -->
+
+
+
+
+
+
+        <!-- ***** Frequently Question Start ***** -->
+    <section id="frequently-question" class="section faq-bg" style="padding : 100px 0px 100px 0px">
+        <div class="container">
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-heading">
+                        <h2 class="DIN">常問問題</h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="section-heading">
+                        <p class="Roboto mb-5 text-black0">了解更多關於ABC5-Lab的詳情</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ***** Section Title End ***** -->
+
+            <div class="row">
+                <div class="left-text align-self-cancel col-lg-6 col-md-6 col-sm-12 paraBgColorWithPadding2 d-flex align-items-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.2s">
+
+                    <div class="container">
+                        <h4 class="DIN mb-4 mt-4 text-center">請註冊其中一個網絡研討會以了解更多有關ABC5-Lab計劃的詳情</h4>
+                        <div class="accordion-text mx-4">
+                            <div class="Roboto text-left">
+                                關於課程及訓練 (A室) — 12月16日 星期三 下午2時 (完成)<br><br>
+                                關於課程及訓練 (B室) — 12月16日 星期三 下午4時 (完成)<br><br>
+                                關於課程及訓練 (C室) — 12月16日 星期三 下午6時 (完成)<br><br>
+                                關於比賽項目 (A室) — 12月17日 星期四 下午2時 (完成)<br><br>
+                                關於比賽項目 (B室) — 12月17日 星期四 下午4時 (完成)<br><br>
+                                關於比賽項目 (C室) — 12月17日 星期四 下午6時 (完成)<br><br>
+                                關於申請 OGCIO 資助計劃 (A室) — 12月18日 星期五 下午2時 (已滿)<br><br>
+                                關於申請 OGCIO 資助計劃 (B室) — 12月18日 星期五 下午4時 (可選)<br><br>
+                                關於申請 OGCIO 資助計劃 (C室) — 12月18日 星期五 下午6時 (可選)<br><br>
+                                重複：3-in-1 RECAP (A室) — 12月19日 星期六 下午2時 (可選)<br><br>
+                                重複：3-in-1 RECAP (B室) — 12月19日 星期六 下午4時 (可選)<br><br>
+                                重複：3-in-1 RECAP (C室) — 12月19日 星期六 下午6時 (可選)<br><br>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.2s">
+                    <div class="accordions is-first-expanded faq-br">
+                        <article class="accordion ">
+                            <div class="accordion-head">
+                                <span class="DIN">參與ABC5-Lab的費用是多少？
+                                </span>
+                                <span class="icon">
+                                    <i class=""></i>
+                                </span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">參與這計劃不需要花費學校資源，因為這是由政府全額資助的課程。
+                                    </p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion ">
+                            <div class="accordion-head">
+                                <span class="DIN">ABC5-Lab的課程對中學生而言會不會太難？
+                                </span>
+                                <span class="icon">
+                                    <i class=""></i>
+                                </span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">不會，因為課程是針對中學生的程度來設計的。
+                                    </p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">在校內建立一個實驗室是否必要的？
+                                </span>
+                                <span class="icon">
+                                    <i class=""></i>
+                                </span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">IT Innovation Lab願意就是並不設限於「實驗室」存在的形態，ABC5-lab 是一個虛擬實驗室，可以理解為它是一個程式。
+                                    </p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">我的學校是否有資格獲得OGCIO (政府資訊科技總監辦公室)支持的IT創新實驗室的資金？</span>
+                                <span class="icon">
+                                    <i class=""></i>
+                                </span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">申請人必須是一所公立中學，包括政府資助的。學校能夠獲得政府補貼。</p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">學校能從政府得到多少的資助？</span>
+                                <span class="icon">
+                                    <i class=""></i>
+                                </span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">資助額的上限為一百萬港元。</p>
+                                </div>
+                            </div>
+                        </article>
+                        <article class="accordion">
+                            <div class="accordion-head">
+                                <span class="DIN">學校參與ABC5-Lab需要在得到資助前預支費用嗎？</span>
+                                <span class="icon">
+                                    <i class=""></i>
+                                </span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p class="Roboto">不需要，學校能在資金派發前率先使用我們的教學資源。 </p>
+                                </div>
+                            </div>
+                        </article>
+                        <!-- <article class="accordion">
+                            <div class="accordion-head">
+                                <span>Sixth Sense Question</span>
+                                <span class="icon">
+                                    <i class=""></i>
+                                </span>
+                            </div>
+                            <div class="accordion-body">
+                                <div class="content">
+                                    <p>Suspendisse potenti. Ut dapibus leo ut massa vulputate semper. Pellentesque
+                                        maximus lorem sed elit imperdiet mattis. Duis posuere mauris ut eros rutrum
+                                        sodales. Aliquam erat volutpat.</p>
+                                </div>
+                            </div>
+                        </article> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Frequently Question End ***** -->
