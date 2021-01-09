@@ -314,9 +314,9 @@ hr {
 } */
 
 @media (max-width: 360px) {
-  .mt-10rem {
+  /* .mt-10rem {
     margin-top: 10rem !important;
-  }
+  } */
 
   .h1-320 {
     margin-top: 32px !important;
