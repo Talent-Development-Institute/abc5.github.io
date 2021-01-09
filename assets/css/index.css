@@ -246,6 +246,10 @@ hr {
 }
 
 @media (max-width: 767px) {
+  .xxmt {
+    margin-top: 130px !important;
+  }
+
   .pl-footer {
     padding: 0%;
   }
@@ -300,10 +304,6 @@ hr {
 
   .h1-320 {
     margin-top: 24px !important;
-  }
-
-  .xxmt {
-    margin-top: 130px !important;
   }
 }
 
