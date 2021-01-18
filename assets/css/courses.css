@@ -1,3 +1,11 @@
+p {
+  line-height: 2;
+}
+
+h4 {
+  margin-bottom: 0.5rem !important;
+}
+
 .divider-asda {
   border-bottom: 3px solid #e8e8e8 !important;
   width: 160px !important;
@@ -12,8 +20,13 @@
   color: #4a4a4a;
 }
 
+li.asd {
+  margin-bottom: 0.5rem !important;
+}
+
 ol,
 li.asd2 {
+  margin-bottom: 0.5rem !important;
   padding: 0;
   margin: 0;
   list-style: decimal !important;
@@ -21,8 +34,17 @@ li.asd2 {
 
 li.asd-2 {
   padding: 0;
+  margin-bottom: 0.5rem !important;
   margin: 0;
   list-style: circle !important;
+}
+
+li.asd-asd-tick {
+  margin-bottom: 0.5rem !important;
+}
+
+.list-style-dashed li {
+  margin-bottom: 0.5rem !important;
 }
 
 .list-style-dashed > li::before {
