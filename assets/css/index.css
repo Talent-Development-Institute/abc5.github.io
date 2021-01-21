@@ -19,6 +19,16 @@
   color: #bec6cc;
 }
 
+.minHyperlink {
+  color: #fff;
+  font-weight: 600;
+}
+
+.minHyperlink:hover {
+  color: #f55858;
+  font-weight: 600;
+}
+
 .fs-1p5rem {
   font-size: 1.5rem !important;
 }
