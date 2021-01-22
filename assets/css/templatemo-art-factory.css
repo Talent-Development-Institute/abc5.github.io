@@ -736,7 +736,7 @@ TRY IT ... with or without CENTER CENTER
 
 .welcome-area .header-text {
   position: absolute;
-  top: 55%;
+  top: 58%;
   transform: translateY(-60%);
   text-align: left;
   width: 100%;
@@ -767,7 +767,7 @@ TRY IT ... with or without CENTER CENTER
 
 @media (max-width: 991px) {
   .welcome-area .header-text {
-    top: 55% !important;
+    top: 58% !important;
     transform: perspective(1px) translateY(-60%) !important;
   }
   .welcome-area .header-text h1 {
@@ -787,7 +787,7 @@ TRY IT ... with or without CENTER CENTER
 
 @media (max-width: 820px) {
   .welcome-area .header-text {
-    top: 55% !important;
+    top: 58% !important;
     transform: perspective(1px) translateY(-60%) !important;
   }
   .welcome-area .header-text h1 {
@@ -805,7 +805,7 @@ TRY IT ... with or without CENTER CENTER
     margin-bottom: 100px;
   }
   .welcome-area .header-text {
-    top: 55% !important;
+    top: 58% !important;
     transform: perspective(1px) translateY(-50%) !important;
     text-align: center;
   }
