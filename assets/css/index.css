@@ -435,3 +435,9 @@ hr {
 /* .header-area .main-nav .nav li.submenu ul {
   width: 260px;
 } */
+
+@media (min-width: 1366px) {
+  .welcome-area .header-text {
+    top: 60% !important;
+  }
+}
