@@ -19,8 +19,17 @@
   color: #bec6cc;
 }
 
+.minHyperlink2 {
+  color: #4c9aff;
+  font-weight: 600;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
 .minHyperlink {
-  color: #fff;
+  color: #f55858;
   font-weight: 600;
 }
 
